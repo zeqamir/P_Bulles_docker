@@ -24,4 +24,5 @@ namespace AmNet_Cloud.Pages
             RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
         }
     }
+
 }

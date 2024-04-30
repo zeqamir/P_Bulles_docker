@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNCujeDU+Q2K20Joonh6UlNfqdV903JndZ13B0DVI9jZQ9kH3c102ilmWvwbbX+wvZht+VrZJcufdzoLVTdZdA==",
+  "success": true,
+  "projectFilePath": "/com.docker.devenvironments.code/AmNet_Cloud.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.19.6/microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

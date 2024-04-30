@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmNet_Cloud", "AmNet_Cloud.csproj", "{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmNet_Cloud", "AmNet_Cloud.csproj", "{7D4ADC64-A630-450C-8595-54655E681BE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4ADC64-A630-450C-8595-54655E681BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4ADC64-A630-450C-8595-54655E681BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4ADC64-A630-450C-8595-54655E681BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4ADC64-A630-450C-8595-54655E681BE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E9932799-7737-464F-BB63-D9F4FCA90CA4}
+		SolutionGuid = {BEE3255D-6E20-4C89-9306-0EAF5E007B98}
 	EndGlobalSection
 EndGlobal

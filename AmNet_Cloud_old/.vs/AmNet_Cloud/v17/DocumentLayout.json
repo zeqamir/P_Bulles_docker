@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|c:\\users\\ps70dji\\desktop\\github\\p_bulles_docker\\amnet_cloud\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|c:\\users\\ps70dji\\desktop\\github\\p_bulles_docker\\amnet_cloud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|c:\\users\\ps70dji\\desktop\\github\\p_bulles_docker\\amnet_cloud\\pages\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|solutionrelative:pages\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|c:\\users\\ps70dji\\desktop\\github\\p_bulles_docker\\amnet_cloud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|c:\\users\\ps70dji\\desktop\\github\\p_bulles_docker\\amnet_cloud\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|c:\\users\\ps70dji\\desktop\\github\\p_bulles_docker\\amnet_cloud\\pages\\inscription.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA6D6E7-F5BE-4765-B945-C5ED44A8CA77}|AmNet_Cloud.csproj|solutionrelative:pages\\inscription.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T13:46:50.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T13:46:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inscription.cshtml",
+              "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Inscription.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Inscription.cshtml",
+              "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Inscription.cshtml",
+              "RelativeToolTip": "Pages\\Inscription.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T13:46:50.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T13:46:50.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inscription.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Inscription.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Inscription.cshtml.cs",
+              "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Inscription.cshtml.cs",
+              "RelativeToolTip": "Pages\\Inscription.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:46:50.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_Bulles_docker\\AmNet_Cloud\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:46:50.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

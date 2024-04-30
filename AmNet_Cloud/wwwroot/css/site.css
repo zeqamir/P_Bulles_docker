@@ -1,78 +1,18 @@
 html {
-    font-size: 25px;
-    position: relative;
-    min-height: 100%;
+  font-size: 14px;
 }
 
 @media (min-width: 768px) {
-    html {
-        font-size: 15px;
-    }
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
 }
 
 body {
-    margin-bottom: 60px;
-    font-family: Arial, sans-serif;
+  margin-bottom: 60px;
 }
-
-.login-container {
-    width: 300px;
-    margin: 100px auto;
-}
-
-    .login-container form {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .login-container label {
-        margin-bottom: 8px;
-    }
-
-    .login-container input {
-        padding: 8px;
-        margin-bottom: 16px;
-    }
-
-    .login-container button {
-        padding: 10px;
-        background-color: #4CAF50;
-        color: white;
-        border: none;
-        cursor: pointer;
-    }
-
-        .login-container button:hover {
-            background-color: #45a049;
-        }
-
-.container {
-    width: 300px;
-    margin: 100px auto;
-}
-
-    .container form {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .container label {
-        margin-bottom: 8px;
-    }
-
-    .container input {
-        padding: 8px;
-        margin-bottom: 16px;
-    }
-
-    .container button {
-        padding: 10px;
-        background-color: #4CAF50;
-        color: white;
-        border: none;
-        cursor: pointer;
-    }
-
-        .container button:hover {
-            background-color: #45a049;
-        }
